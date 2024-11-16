@@ -1,10 +1,10 @@
 ![logo](https://github.com/TheBMPatil/bhagvat_mutthe/blob/main/Banner%20bhagvat.png)
-<h1 align="center">Hi 👋, I'm Shreyas Bhaginath Peherkar</h1>
-<h3 align="center">I'm passionate for Web Developer & Application Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Bhagvat Nivrutti Mutthe</h1>
+<h3 align="center">I'm passionate for JAVA Developer & Application Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas156&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas156" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheBMPatil&label=Profile%20views&color=0e75b6&style=flat" alt="TheBMPatil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas156" alt="shreyas156" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheBMPatil" alt="TheBMPatil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/56shreyas" target="blank"><img src="https://img.shields.io/twitter/follow/56shreyas?logo=twitter&style=for-the-badge" alt="56shreyas" /></a> </p>
 
