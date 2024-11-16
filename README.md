@@ -1,4 +1,4 @@
-![logo](https://github.com/Shreyas156/Shreyas156/blob/main/My%20project-1.png)
+![logo](https://github.com/TheBMPatil/bhagvat_mutthe/blob/main/Banner%20bhagvat.png)
 <h1 align="center">Hi 👋, I'm Shreyas Bhaginath Peherkar</h1>
 <h3 align="center">I'm passionate for Web Developer & Application Developer from India</h3>
 
