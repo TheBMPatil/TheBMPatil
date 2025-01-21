@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheBMPatil&label=Profile%20views&color=0e75b6&style=flat" alt="TheBMPatil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheBMPatil" alt="TheBMPatil" /></a> </p>
+
 
 <p align="left"> <a href="https://x.com/BhagvatMutthe" target="blank"><img src="https://img.shields.io/twitter/follow/BhagvatMutthe?logo=twitter&style=for-the-badge" alt="BhagvatMutthe" /></a> </p>
 
