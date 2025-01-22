@@ -11,22 +11,32 @@
 </p>
 
 ---
+# 👨‍💻 About Me  
 
-### 👨‍💻 About Me
+🔭 **Currently Working On:**  
+- 💻 JAVA Development Projects  
+- ⚛️ React Projects, including my '21 Days, 21 React Projects' challenge  
 
-- 🔭 **Currently working on:**  
-  **JAVA Development Projects** and **React Projects**
+🌱 **Currently Learning:**  
+- 🌐 **Node.js** and **Next.js** for backend and full-stack development  
+- 📚 **Hibernate** for advanced Java persistence  
+- 🐧 **Linux** to enhance system-level understanding  
 
-- 🌱 **Learning:**  
-  Node.js, Next.js, Hibernate, Linux
+💬 **Ask Me About:**  
+- ☕ **JAVA**: From Core Java to advanced concepts like OOP and frameworks  
+- 🌍 **Web Development**: JavaScript, React, GitHub best practices, and Git  
+- 📋 **Project Management**: Structuring applications and delivering efficient solutions  
 
-- 💬 **Ask me about:**  
-  JAVA, OOP, JavaScript, GitHub, Git
+🎯 **Future Goals:**  
+- 🚀 Mastering Java EE and creating impactful projects like a VPN dashboard and standalone Java applications.  
+- 🤝 Contributing to open-source and providing free programming courses for students.  
 
-- 📫 **How to reach me:**  
-  [**bhagvatnmutthe@gmail.com**](mailto:bhagvatnmutthe@gmail.com)
+💡 **What Drives Me:**  
+I’m passionate about simplifying complex problems and transforming ideas into user-friendly solutions. My focus is on creating exceptional user experiences with a user-centered approach.  
 
 ---
+
+✨ Let's connect and share knowledge!
 
 ### 🌐 Connect with Me
 <p align="left">
